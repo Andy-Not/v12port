@@ -10,12 +10,12 @@ const INFO = {
 	},
 
 	socials: {
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		github: "https://github.com/Andy-Not",
+		linkedin: "https://www.linkedin.com/in/joandy-alejo",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Welcome to my space! I'm Joandy, a full-stack web developer.",
 		description:
 			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
@@ -30,7 +30,7 @@ const INFO = {
 		{
 			title: "Project Management App (GROOP)",
 			description:
-				"A innovative and collaborative Kanban project management tool designed to streamline project organization and team collaboration.",
+				"An innovative Kanban tool for streamlined project management and team collaboration.",
 			logo: [java, js, sql],
 			linkText: "View Project",
 			link: "https://github.com/Andy-Not/groop",
@@ -38,7 +38,7 @@ const INFO = {
 		{
 			title: "Weather App",
 			description:
-				"A innovative and collaborative Kanban project management tool designed to streamline project organization and team collaboration.",
+			"A weather app that retrieves data from an open REST API and presents it to the user.",
 			logo: [js],
 			linkText: "View Project",
 			link: "https://github.com/Andy-Not/groop",
