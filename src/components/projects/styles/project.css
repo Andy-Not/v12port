@@ -27,10 +27,12 @@
 }
 
 .project-logo {
+	display: flex;
 	width: 30px;
 }
 
 .project-logo img {
+	margin-right: 10px;
 	width: 100%;
 }
 
