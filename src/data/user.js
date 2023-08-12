@@ -3,7 +3,7 @@ import js from "../assets/JavaScript-01.png"
 import sql from "../assets/MySQL-01.png"
 const INFO = {
 	main: {
-		title: "Joandy's spot",
+		title: "Joandy's Space",
 		name: "Joandy A.",
 		email: "joandydev@outlook.com",
 		logo: "../logo.png",
