@@ -17,7 +17,7 @@ const INFO = {
 	homepage: {
 		title: "Welcome to my space! I'm Joandy, a full-stack web developer.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+		"I am a versatile developer proficient in both front-end and back-end technologies. With expertise in React, Java, Python, C and MySQL, I specialize in creating accessible and highly functional software solutions. My dedication to continuous learning drives me to seek out new opportunities to contribute to projects and expand my skill set."
 	},
 
 	about: {
@@ -28,7 +28,7 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project Management App (GROOP)",
+			title: "Project Management App",
 			description:
 				"An innovative Kanban tool for streamlined project management and team collaboration.",
 			logo: [java, js, sql],

@@ -9,7 +9,6 @@ import {
 import Logo from "../components/common/logo";
 import Footer from "../components/common/footer";
 import NavBar from "../components/common/navBar";
-import Works from "../components/homepage/works";
 import AllProjects from "../components/projects/allProjects";
 import INFO from "../data/user";
 import SEO from "../data/seo";
@@ -96,7 +95,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
+											src="homepage.png"
 											alt="about"
 											className="homepage-image"
 										/>
@@ -142,11 +141,11 @@ const Homepage = () => {
 							<AllProjects />
 						</div>
 
-						<div className="homepage-after-title">
-							<div className="homepage-works">
-								<Works />
-							</div>
-						</div>
+						{/*<div className="homepage-after-title">*/}
+						{/*	<div className="homepage-works">*/}
+						{/*		<Works />*/}
+						{/*	</div>*/}
+						{/*</div>*/}
 
 						<div className="page-footer">
 							<Footer />
