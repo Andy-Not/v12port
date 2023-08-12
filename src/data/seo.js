@@ -2,14 +2,14 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
+		"I am a versatile developer proficient in both front-end and back-end technologies. With expertise in React, Java, Python, C and MySQL, I specialize in creating accessible and highly functional software solutions.",
 		keywords: ["Joandy", "Joandy A", "Joandy A. Garcia"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
+		"I am a versatile developer proficient in both front-end and back-end technologies. With expertise in React, Java, Python, C and MySQL, I specialize in creating accessible and highly functional software solutions.",
 		keywords: ["Joandy", "Joandy A", "Joandy A. Garcia"],
 	},
 
@@ -23,7 +23,7 @@ const SEO = [
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
+		"Over the years as a developer, I have been involved in the creation of numerous projects. Here are some of these projects that I am proud to share with you.",
 		keywords: ["Joandy", "Joandy A", "Joandy A. Garcia"],
 	},
 

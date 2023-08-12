@@ -23,7 +23,7 @@ const INFO = {
 	about: {
 		title: "I'm Joandy, a computer science student from Pennsylvania.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+		"I am both a student and an enthusiast in the tech field, always on the lookout for new opportunities to learn and acquire a new set of skills. At this current moment, I have obtained an associate's degree in web development and am also on my way to obtaining a bachelor's degree in computer science from Bloomsburg University of Pennsylvania. I am always striving to become a better and more well-rounded developer, with the ability to help others thrive alongside me."
 	},
 
 	projects: [
